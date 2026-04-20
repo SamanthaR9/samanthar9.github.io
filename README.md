@@ -5,7 +5,7 @@ I’m learning data analytics and building projects in Python, SQL, and visualis
 
 ## What I have learnt: 
 
-- [Excel and data basics](Bike-Sales-Excel1.png)
+- Excel and data basics
 
 - Python / Google Colab 
 
