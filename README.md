@@ -19,18 +19,15 @@ I’m learning data analytics and building projects in Python, SQL, and visualis
 [Tableau Dashboard](GapMinder-Tableau.png)
 <br>The GapMinder dataset contains health statistics from around the world. I was tasked with analysing trends and key information that an organisation would find useful, such as being able to quickly understand health trends and disparities across different countries and continents, visualising how health metrics vary, and how life expectancy has changed over time.
 <br><br>[Population Growth by Continent Over Time](GapMinder-Prompt-Deliverable.png)
-<br>This is an example of a single worksheet, but one I found especially important as the data gives insight into how organisations may need to implement planning in the future based on trends. 
+<br>This is an example of a single optional worksheet, but one I found especially important as the data gives insight into how organisations may need to implement planning in the future based on trends. 
 
 
 ### Power BI
-
-<br>[Getting Data from Power BI Desktop]
-<br>[Load and Transform Data]
-<br>[Design a Report]
-<br>[Create a Power BI Dashboard]
-
-
-## Some projects I have completed: 
+This project demonstrates a full Power BI workflow completed through Skillable labs. The aim was to develop practical skills in data preparation, modelling, visualisation, and dashboard design using Power BI Desktop.
+<br>[Getting Data]. In this lab I imported a data source and reviewed the initial structure and fields. The outcome is a raw dataset successfully loaded into Power BI, ready for transformation.
+<br>[Load and Transform Data]. This lab focused on cleaning and preparing the dataset using PowerQuery, ready for reporting and analysis.
+<br>[Design a Report]. In this lab I focused on creating visual reports, resulting in an interactive report that presents data clearly.
+<br>[Create a Power BI Dashboard]. This lab involved assembling visuals into a final dashboard, providing a high level summary of insights.
 
 
 
