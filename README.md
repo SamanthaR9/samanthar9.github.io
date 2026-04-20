@@ -5,7 +5,8 @@ I’m learning data analytics and building projects in Python, SQL, and visualis
 
 ## What I have learnt: 
 
-- Excel and data basics
+- [Excel and data basics](Bike-Sales-Excel4.png)
+- With the given dataset on Bike Sales, I created a visulasation using a stacked bar chart which shows that the most profitable market is Australia, with a total of 63 sales, and consistent sales within each age group and gender. Across all countries and age groups, Female customers purchase more than Male customers. The Youth age category (under 25) have the least amount of sales (27). 
 
 - Python / Google Colab 
 
