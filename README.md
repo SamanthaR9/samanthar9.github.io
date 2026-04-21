@@ -13,14 +13,14 @@ I’m learning data analytics and building projects in Python, SQL, and visualis
 
 
 ### SQL / MySQL Workbench 
-This project focuses on relational data using the MySQL World dataset, which focuses on real-world analytical queries. I wrote and tested a range of SQL queries to understand how to extract, transform, and analyse structured data efficiently. I learned how to use
+This project focused on relational data using the MySQL World dataset, which focuses on real-world analytical queries. I [wrote and tested](queries.sql.txt) a range of SQL queries to understand how to extract, transform, and analyse structured data efficiently. I learned how to use
 - Joins
 - Aggregations
 - Subqueries
 - Filtering / WHERE / LIKE
 - Grouping
 - Basic DDL (CREATE TABLE, INSERT, UPDATE)
-<br>[Example of SQL queries](queries.sql.txt)
+<br>[](queries.sql.txt)
 
 ### Tableau
 ![Tableau Dashboard](GapMinder-Tableau.png)
