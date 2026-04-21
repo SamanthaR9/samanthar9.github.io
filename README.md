@@ -22,7 +22,7 @@ This project focused on relational data using the MySQL World dataset, which foc
 - Basic DDL (CREATE TABLE, INSERT, UPDATE)
 <br><br>View SQL script: [queries.sql](queries.sql)
 <br>
-<br>
+
 **Database Schema ERD Diagram**
 <br> ![ERD Diagram](Country-ERD.png)
 <br> This diagram shows the relationships between the tables in the MySQL World dataset, including country, city, and countrylanguage. The ERD helped me understand how tables are connected through primary and foreign keys, which allowed me to write more accurate JOIN queries and analyse relational data effectively.
