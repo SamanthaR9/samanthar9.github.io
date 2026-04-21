@@ -13,7 +13,7 @@ I’m learning data analytics and building projects in Python, SQL, and visualis
 
 
 ### SQL / MySQL Workbench 
-
+[Example of SQL queries](queries.sql.txt)
 
 ### Tableau
 ![Tableau Dashboard](GapMinder-Tableau.png)
