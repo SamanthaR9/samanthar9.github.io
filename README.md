@@ -43,4 +43,4 @@ This project demonstrates a full Power BI workflow completed through Skillable l
 
 ## :handshake: Contact
 - 📧 Email: samanthaross1@hotmail.co.uk
-- 🔗 LinkedIn: [View my profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/samantha-ross/)
+- 🔗 LinkedIn: [View my profile](https://www.linkedin.com/in/samantha-ross/)
