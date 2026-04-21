@@ -20,7 +20,7 @@ This project focused on relational data using the MySQL World dataset, which foc
 - Filtering / WHERE / LIKE
 - Grouping
 - Basic DDL (CREATE TABLE, INSERT, UPDATE)
-<br><br>View SQL script: [queries.sql](sql/queries.sql)
+<br><br>View SQL script: [queries.sql](queries.sql)
 
 ### Tableau
 ![Tableau Dashboard](GapMinder-Tableau.png)
