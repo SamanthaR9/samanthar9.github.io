@@ -41,6 +41,6 @@ This project demonstrates a full Power BI workflow completed through Skillable l
 <br><br>![Design a Report](PowerBI-Design-Report.png)<br>In this lab I focused on creating visual reports, resulting in an interactive dashboard that presents data clearly. For this task I focused on finding the running total (DAX), showed multiple measures on one chart, and conducted time-based analysis.
 <br><br>![Create a Power BI Dashboard](PowerBI-Dashboard.png)<br>This lab involved assembling visuals into a final cohesive dashboard, providing a high level report and summary of insights. Used a combination of visuals such as combo charts, stacked bar charts, and horizontal bar charts alongside slicers to give a well-rounded analysis.
 
-## :email: Contact
+## :handshake: Contact
 - 📧 Email: samanthaross1@hotmail.co.uk
 - 🔗 LinkedIn: [View my profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/samantha-ross/))
