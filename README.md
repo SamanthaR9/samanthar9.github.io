@@ -10,8 +10,8 @@ I’m learning data analytics and building projects in Python, SQL, and visualis
 <br>With the given dataset which shows KPIs from bike sales, I created pivot tables and a stacked bar chart to visually show my findings. The results show that the most profitable market is Australia, with a total of 63 sales, and that there are consistent sales within each age group and gender. Across all countries and age groups, female customers purchase more than male customers. The youth age category (under 25) have the least amount of sales. 
 
 ## :snake: Python / Google Colab 
-[Python Coding](student.ipynb)
-This project demonstrates my use of Python for data analysis within a Jupyter Notebook environment (Google Colab). I worked with datasets to clean, explore, and analyse data, applying core data analysis techniques in Python. For this project, I loaded a student dataset to explore and understand the structure, cleaned missing or inconsistent data, and extracted meaningful insights through the visualisations. By grouping and filtering the data, I was able to add a column for 'Grades' and analyse even further. 
+[Python Coding](student.ipynb)<br>
+This project demonstrates my use of Python for data analysis within a Jupyter Notebook environment (Google Colab). I worked with datasets to clean, explore, and analyse data, applying core data analysis techniques in Python. For this project, I loaded a dataset with student information to explore and understand the structure, cleaned missing or inconsistent data, and extracted meaningful insights through the visualisations. By grouping and filtering the data, I was able to add a column for 'Grades' and analyse even further. <br> 
 
 ## :card_file_box: SQL / MySQL Workbench 
 This project focused on relational data using the MySQL World dataset, which focuses on real-world analytical queries. I wrote and tested a range of SQL queries to understand how to extract, transform, and analyse structured data efficiently. I learned how to use:
