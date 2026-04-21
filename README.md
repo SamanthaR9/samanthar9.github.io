@@ -25,9 +25,9 @@ I’m learning data analytics and building projects in Python, SQL, and visualis
 ### Power BI
 This project demonstrates a full Power BI workflow completed through Skillable labs. The aim was to develop practical skills in data preparation, modelling, visualisation, and dashboard design using Power BI Desktop.
 <br><br>![Getting Data](PowerBI-Getting-Data.png)<br>In this lab I imported data from an SQL database (AdventureWorks) and added the raw data into Power Query. I reviewed the initial structure and fields before moving to the next step.
-<br>![Load and Transform Data](PowerBI-Transforming-Data.png)<br>This lab focused on cleaning and preparing the dataset using PowerQuery, ready for reporting and analysis. Data types were corrected, column headers were standardised, and data quality was validated using built-in profiling tools to ensure accuracy before analysis.
-<br>![Design a Report](PowerBI-Design-Report.png)<br>In this lab I focused on creating visual reports, resulting in an interactive dashboard that presents data clearly. For this task I focused on finding the running total (DAX), showed multiple measures on one chart, and conducted time-based analysis.
-<br>![Create a Power BI Dashboard](PowerBI-Dashboard.png)<br>This lab involved assembling visuals into a final cohesive dashboard, providing a high level report and summary of insights. Used a combination of visuals such as combo charts, stacked bar charts, and horizontal bar charts alongside slicers to give a well-rounded analysis.
+<br><br>![Load and Transform Data](PowerBI-Transforming-Data.png)<br>This lab focused on cleaning and preparing the dataset using PowerQuery, ready for reporting and analysis. Data types were corrected, column headers were standardised, and data quality was validated using built-in profiling tools to ensure accuracy before analysis.
+<br><br>![Design a Report](PowerBI-Design-Report.png)<br>In this lab I focused on creating visual reports, resulting in an interactive dashboard that presents data clearly. For this task I focused on finding the running total (DAX), showed multiple measures on one chart, and conducted time-based analysis.
+<br><br>![Create a Power BI Dashboard](PowerBI-Dashboard.png)<br>This lab involved assembling visuals into a final cohesive dashboard, providing a high level report and summary of insights. Used a combination of visuals such as combo charts, stacked bar charts, and horizontal bar charts alongside slicers to give a well-rounded analysis.
 
 
 
