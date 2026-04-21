@@ -23,10 +23,10 @@ I’m learning data analytics and building projects in Python, SQL, and visualis
 
 ### Power BI
 This project demonstrates a full Power BI workflow completed through Skillable labs. The aim was to develop practical skills in data preparation, modelling, visualisation, and dashboard design using Power BI Desktop.
-<br>[Getting Data]: In this lab I imported a data source and reviewed the initial structure and fields. The outcome is a raw dataset successfully loaded into Power BI, ready for transformation.
-<br>[Load and Transform Data]: This lab focused on cleaning and preparing the dataset using PowerQuery, ready for reporting and analysis.
-<br>[Design a Report]: In this lab I focused on creating visual reports, resulting in an interactive report that presents data clearly.
-<br>[Create a Power BI Dashboard]: This lab involved assembling visuals into a final dashboard, providing a high level summary of insights.
+<br>[Getting Data](PowerBI-Getting-Data.png): In this lab I imported a data source and reviewed the initial structure and fields. The outcome is a raw dataset successfully loaded into Power BI, ready for transformation.
+<br>[Load and Transform Data](PowerBI-Transforming-Data.png): This lab focused on cleaning and preparing the dataset using PowerQuery, ready for reporting and analysis.
+<br>[Design a Report](PowerBI-Design-Report.png): In this lab I focused on creating visual reports, resulting in an interactive report that presents data clearly.
+<br>[Create a Power BI Dashboard](PowerBI-Dashboard.png): This lab involved assembling visuals into a final dashboard, providing a high level summary of insights.
 
 
 
