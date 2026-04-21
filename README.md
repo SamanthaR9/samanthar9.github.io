@@ -2,6 +2,13 @@
 
 I’m learning data analytics and building projects in Python, SQL, and visualisation tools to develop practical, job-ready skills. My background is in Literature and Cinema, combining storytelling with data to turn insights into meaningful narratives. The following projects were completed during a Data Analysis short course which lasted around 7 weeks. 
 
+## 👉 Skills Summary
+- Python (pandas, data cleaning, EDA)
+- SQL (joins, aggregation, subqueries)
+- Excel (pivot tables, charts)
+- Tableau (dashboards, storytelling)
+- Power BI (DAX, reporting)
+
 
 # :file_folder: Projects
 ## :bar_chart: Excel and data basics
