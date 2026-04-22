@@ -57,6 +57,7 @@ GROUP BY country.Name
 ORDER BY average_city_population DESC;
 ```
 [View my full SQL script here](queries.md)
+<br>
 
 **Key Insights:**
 
