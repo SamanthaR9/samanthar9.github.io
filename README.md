@@ -80,15 +80,15 @@ The aim of this dashboard was to analyse key patterns that would be useful for o
 
 
 The dashboard presents several visualisations, each highlighting a different insight:
-- Life Expectancy by Continent
+- **Life Expectancy by Continent**
 This chart compares average life expectancy across continents, showing clear global disparities. Europe and the Americas have the highest life expectancy, while Africa remains significantly lower, reflecting differences in healthcare access and overall development.
-- Life Expectancy Trend
+- **Life Expectancy Trend**
 This line graph shows a steady increase in life expectancy across all selected countries over time. This suggests overall global improvements in healthcare, living conditions, and medical advancements, although some countries consistently perform better than others.
-- Population Growth by Continent Over Time
+- **Population Growth by Continent Over Time**
 This visual highlights how population growth varies between continents. Asia shows the highest overall growth, while other regions fluctuate more moderately. These trends are useful for long-term planning, particularly for resource allocation and infrastructure.
-- Life Expectancy vs BMI
+- **Life Expectancy vs BMI**
 The scatter plot explores the relationship between BMI and life expectancy. There is a general upward trend, suggesting that higher BMI levels are associated with higher life expectancy up to a point, although the spread of data indicates that other factors also influence outcomes.
-- Population by Gender
+- **Population by Gender**
 This chart allows comparison of male and female populations within a selected country. The distribution appears relatively balanced, which is typical in many developed nations, and the interactive filter enables comparisons across different countries.
 
 <br>**Population Growth by Continent Over Time (Worksheet)**
@@ -97,10 +97,6 @@ In addition to the dashboard, I also developed individual worksheets to explore 
 
 This worksheet provides a focused view of population changes, making it easier to identify patterns and fluctuations. It highlights how growth trends differ significantly between regions, which could influence future policy and planning decisions.
 
-
-The GapMinder dataset contains health statistics from around the world. I was tasked with analysing trends and key information that an organisation would find useful, such as being able to quickly understand health trends and disparities across different countries and continents, visualising how health metrics vary, and how life expectancy has changed over time.
-<br><br>![Population Growth by Continent Over Time](GapMinder-Prompt-Deliverable.png)
-<br>This is an example of a single optional worksheet, but one I found especially important as the data gives insight into how organisations may need to implement planning in the future based on trends. 
 
 ## 📈 Power BI
 ### Full Power BI Workflow using AdventureWorks and Skillable
