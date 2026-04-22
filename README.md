@@ -55,9 +55,10 @@ JOIN country
 GROUP BY country.Name
 ORDER BY average_city_population DESC;
 ```
+<br>[View my full SQL script here](queries.md)
 
 **Key Insights:**
-<br>[View my full SQL script here](queries.md)
+
 <br>
 - Singapore and Hong Kong have the highest averages due to highly concentrated urban populations.
 - Larger countries tend to have lower averages due to more dispersed city populations.
