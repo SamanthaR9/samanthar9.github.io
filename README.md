@@ -35,7 +35,8 @@ FROM city
 JOIN country
   ON city.CountryCode = country.Code
 GROUP BY country.Name
-ORDER BY average_city_population DESC; ```
+ORDER BY average_city_population DESC;
+```
 <br>
 **Key Insights**
 - Larger countries show lower averages due to a wider distribution of smaller cities.
