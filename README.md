@@ -83,13 +83,13 @@ The dashboard presents several visualisations, each highlighting a different ins
 - **Life Expectancy by Continent**
 <br>This chart compares average life expectancy across continents, showing clear global disparities. Europe and the Americas have the highest life expectancy, while Africa remains significantly lower, reflecting differences in healthcare access and overall development.
 - **Life Expectancy Trend**
-This line graph shows a steady increase in life expectancy across all selected countries over time. This suggests overall global improvements in healthcare, living conditions, and medical advancements, although some countries consistently perform better than others.
+<br>This line graph shows a steady increase in life expectancy across all selected countries over time. This suggests overall global improvements in healthcare, living conditions, and medical advancements, although some countries consistently perform better than others.
 - **Population Growth by Continent Over Time**
-This visual highlights how population growth varies between continents. Asia shows the highest overall growth, while other regions fluctuate more moderately. These trends are useful for long-term planning, particularly for resource allocation and infrastructure.
+<br>This visual highlights how population growth varies between continents. Asia shows the highest overall growth, while other regions fluctuate more moderately. These trends are useful for long-term planning, particularly for resource allocation and infrastructure.
 - **Life Expectancy vs BMI**
-The scatter plot explores the relationship between BMI and life expectancy. There is a general upward trend, suggesting that higher BMI levels are associated with higher life expectancy up to a point, although the spread of data indicates that other factors also influence outcomes.
+<br>The scatter plot explores the relationship between BMI and life expectancy. There is a general upward trend, suggesting that higher BMI levels are associated with higher life expectancy up to a point, although the spread of data indicates that other factors also influence outcomes.
 - **Population by Gender**
-This chart allows comparison of male and female populations within a selected country. The distribution appears relatively balanced, which is typical in many developed nations, and the interactive filter enables comparisons across different countries.
+<br>This chart allows comparison of male and female populations within a selected country. The distribution appears relatively balanced, which is typical in many developed nations, and the interactive filter enables comparisons across different countries.
 
 <br>**Population Growth by Continent Over Time (Worksheet)**
 ![Population Growth by Continent Over Time](GapMinder-Prompt-Deliverable.png)
