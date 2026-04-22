@@ -43,9 +43,8 @@ ORDER BY average_city_population DESC;
 - Larger countries show lower averages due to a wider distribution of smaller cities.
 - Countries like Singapore and Hong Kong have the highest average due to highly concentrated urban populations.
 - This is important to note as it highlights how averages are influenced by the number of cities and population distribution.
-
 <br>[View my full SQL script here](queries.sql)
-
+<br>
 **Database Schema ERD Diagram**
 <br> ![ERD Diagram](Country-ERD.png)
 <br> This diagram shows the relationships between the tables in the MySQL World dataset, including country, city, and countrylanguage. The ERD helped me understand how tables are connected through primary and foreign keys, which allowed me to write more accurate JOIN queries and analyse relational data effectively.
