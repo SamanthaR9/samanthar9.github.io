@@ -71,6 +71,7 @@ ORDER BY average_city_population DESC;
 ## 📊 Tableau
 ### Global Health and Life Expectancy Analysis in Tableau
 The GapMinder dataset contains global health and development statistics such as life expectancy, population, and economic measures across countries and time periods. This was suitable for Tableau as it contains time-based statistics and geographic data, making it ideal for visualising trends, comparisons, and global disparities. 
+
 ![Tableau Dashboard](GapMinder-Tableau.png)
 <br>The GapMinder dataset contains health statistics from around the world. I was tasked with analysing trends and key information that an organisation would find useful, such as being able to quickly understand health trends and disparities across different countries and continents, visualising how health metrics vary, and how life expectancy has changed over time.
 <br><br>![Population Growth by Continent Over Time](GapMinder-Prompt-Deliverable.png)
