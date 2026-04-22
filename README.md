@@ -17,7 +17,7 @@ I’m learning data analytics and building projects in Python, SQL, and visualis
 <br>With the given dataset which shows KPIs from bike sales, my analysis through pivot tables and stacked bar charts shows where the company should focus sale efforts. The results show that the most profitable market is Australia, with a total of 63 sales, and that there are consistent sales within each age group and gender. Across all countries and age groups, female customers purchase more than male customers. The youth age category (under 25) have the least amount of sales. 
 
 ## :snake: Python / Google Colab 
-[Python Coding](student.ipynb)<br>
+Full notebook (including code, cleaning steps, and visualisations): [link](student.ipynb)<br>
 This project demonstrates my use of Python for data analysis within a Jupyter Notebook environment (Google Colab). I worked with datasets to clean, explore, and analyse data, applying core data analysis techniques in Python. For this project, I loaded a dataset with student information to explore and understand the structure, cleaned missing or inconsistent data, and extracted meaningful insights through the visualisations. By grouping and filtering the data, I was able to add a column for 'Grades' and analyse even further. <br>
 The Pie Chart, Histogram and Bar Charts show that Grade A is the most frequent grade overall, with most classes scoring on average between 70 and 80. Class Nine is an outlier, with a lower average of around 40. This significant performance gap requires attention, and if this were used in a school then it would indicate the need for different teaching methods, or extra resources.
 
@@ -39,7 +39,7 @@ ORDER BY average_city_population DESC;
 ```
 
 
-**Key Insights**
+**Key Insights:**
 - Countries like Singapore and Hong Kong have the highest average due to highly concentrated urban populations.
 - Larger countries show lower averages due to a wider distribution of smaller cities.
 - This is important to note as it highlights how averages are influenced by the number of cities and population distribution, rather than size or wealth.
