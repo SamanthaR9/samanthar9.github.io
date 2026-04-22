@@ -52,7 +52,7 @@ ORDER BY average_city_population DESC;
 - Larger countries show lower averages due to a wider distribution of smaller cities.
 - This is important to note as it highlights how averages are influenced by the number of cities and population distribution, rather than size or wealth.
 - High urban concentration may refelct economic centralisation, where population and resources are clustered into a few major cities, which can distort comparisons and relationships between countries if not addressed. 
-<br>[View my full SQL script here](queries.sql)
+<br>[View my full SQL script here](queries.md)
 <br>
 
 **Database Schema ERD Diagram**
