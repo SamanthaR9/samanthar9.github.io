@@ -44,7 +44,7 @@ ORDER BY average_city_population DESC;
 - Countries like Singapore and Hong Kong have the highest average due to highly concentrated urban populations.
 - This is important to note as it highlights how averages are influenced by the number of cities and population distribution.
 
-<br>View my full SQL script [here]((queries.sql)
+<br>[View my full SQL script here](queries.sql)
 
 **Database Schema ERD Diagram**
 <br> ![ERD Diagram](Country-ERD.png)
