@@ -23,6 +23,7 @@ My analysis of the dataset focused on the pivot tables and stacked bar charts, w
 ### Analyse Student Performance Dataset in Python
 This dataset contains student academic scores across classes, used to calculate performance. The dataset required cleaning, transforming, and grouping before insights could be extracted, making it a suitable choice for Python practice. <br>
 Full notebook (including code, cleaning steps, and visualisations): [link](student.ipynb)<br>
+
 This project demonstrates my use of Python in a Jupyter Notebook (Google Colab) to perform exploratory data analysis on a student performance dataset. The workflow included data cleaning, handling missing or inconsistent values, and transforming the dataset to support analysis.
 
 I explored the structure of the data, then engineered a 'Grades' column to categorise student performance. Using grouping and filtering techniques, I analysed performance patterns across different classes and visualised the results using bar charts, histograms, and pie charts.
