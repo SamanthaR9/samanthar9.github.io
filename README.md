@@ -59,9 +59,8 @@ ORDER BY average_city_population DESC;
 [View my full SQL script here](queries.md)
 <br>
 
-**Key Insights:**
 
-<br>
+**Key Insights:**
 - Singapore and Hong Kong have the highest averages due to highly concentrated urban populations.
 - Larger countries tend to have lower averages due to more dispersed city populations.
 - This shows that averages can be influenced by distribution rather than overall country size or wealth.
