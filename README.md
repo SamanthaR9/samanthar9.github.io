@@ -81,7 +81,7 @@ The aim of this dashboard was to analyse key patterns that would be useful for o
 
 The dashboard presents several visualisations, each highlighting a different insight:
 - **Life Expectancy by Continent**
-This chart compares average life expectancy across continents, showing clear global disparities. Europe and the Americas have the highest life expectancy, while Africa remains significantly lower, reflecting differences in healthcare access and overall development.
+<br>This chart compares average life expectancy across continents, showing clear global disparities. Europe and the Americas have the highest life expectancy, while Africa remains significantly lower, reflecting differences in healthcare access and overall development.
 - **Life Expectancy Trend**
 This line graph shows a steady increase in life expectancy across all selected countries over time. This suggests overall global improvements in healthcare, living conditions, and medical advancements, although some countries consistently perform better than others.
 - **Population Growth by Continent Over Time**
