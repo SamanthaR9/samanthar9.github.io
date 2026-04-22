@@ -18,8 +18,16 @@ I’m learning data analytics and building projects in Python, SQL, and visualis
 
 ## :snake: Python / Google Colab 
 Full notebook (including code, cleaning steps, and visualisations): [link](student.ipynb)<br>
-This project demonstrates my use of Python for data analysis within a Jupyter Notebook environment (Google Colab). I worked with datasets to clean, explore, and analyse data, applying core data analysis techniques in Python. For this project, I loaded a dataset with student information to explore and understand the structure, cleaned missing or inconsistent data, and extracted meaningful insights through the visualisations. By grouping and filtering the data, I was able to add a column for 'Grades' and analyse even further. <br>
-The Pie Chart, Histogram and Bar Charts show that Grade A is the most frequent grade overall, with most classes scoring on average between 70 and 80. Class Nine is an outlier, with a lower average of around 40. This significant performance gap requires attention, and if this were used in a school then it would indicate the need for different teaching methods, or extra resources.
+This project demonstrates my use of Python in a Jupyter Notebook (Google Colab) to perform exploratory data analysis on a student performance dataset. The workflow included data cleaning, handling missing or inconsistent values, and transforming the dataset to support analysis.
+
+I explored the structure of the data, then engineered a 'Grades' column to categorise student performance. Using grouping and filtering techniques, I analysed performance patterns across different classes and visualised the results using bar charts, histograms, and pie charts.
+
+**Key Findings:**
+- Grade A was the most frequently occurring grade overall, suggesting a generally strong level of performance across the dataset.
+- Most classes had average scores between 70–80, indicating consistent mid-to-high achievement.
+- Class Nine was a clear outlier, with an average score around 40, significantly lower than the other classes.
+
+This performance gap highlights a potential imbalance in student outcomes. If applied in a real educational context, this would suggest the need for targeted intervention for underperforming groups, such as revised teaching strategies or additional academic support. It also demonstrates how visual analysis can quickly identify outliers that may not be obvious from raw data alone.
 
 ## :card_file_box: SQL / MySQL Workbench 
 My objective was to analyse a relational dataset to extract insights about countries, cities, and population trends using structured queries. I approached this by querying the MySQL World dataset using joins to combine tables, aggregations (such as COUNT and AVG), subqueries for deeper analysis, and filtering and grouping.<br>
