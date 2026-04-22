@@ -37,7 +37,8 @@ JOIN country
 GROUP BY country.Name
 ORDER BY average_city_population DESC;
 ```
-<br>
+
+
 **Key Insights**
 - Larger countries show lower averages due to a wider distribution of smaller cities.
 - Countries like Singapore and Hong Kong have the highest average due to highly concentrated urban populations.
