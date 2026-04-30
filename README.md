@@ -77,7 +77,7 @@ The GapMinder dataset contains global health and development statistics, includi
 The aim of this dashboard was to analyse key patterns that would be useful for organisations, such as understanding how life expectancy has changed over time, identifying regional differences, and exploring relationships between health indicators.
 
 ![Tableau Dashboard](GapMinder-Tableau.png)
-
+🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/views/GapMinderInsightsFinalSR/GapMinderInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The dashboard presents several visualisations, each highlighting a different insight:
 - **Life Expectancy by Continent**
